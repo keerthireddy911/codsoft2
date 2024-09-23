@@ -1,0 +1,27 @@
+*{background-color:#8FBC8F;
+margin:30px;
+
+}
+.container{
+display:flex;
+}
+h1{
+font-size:75px;
+text-align:centre;
+
+}
+p{
+font-size:20px;
+
+    font-size: 20px;
+    background-color:white; /* Background color for the paragraphs */
+    padding: 10px; /* Adding padding inside the paragraphs */
+    border-radius: 5px; /* Optional: Rounded corners */
+    margin-bottom: 15px; /* Space between paragraphs */
+	box-shadow: 0 0 0 30px #FF7F50;
+}
+
+.img{
+width:30%;
+height:auto;
+border-radius:10px;}
